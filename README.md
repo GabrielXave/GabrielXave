@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Gabriel Xavier
+# 👋 Hi, I’m Gabriel
 
 ## 👀 I’m interested in 
 - Web development and mobile app development.
