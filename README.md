@@ -16,7 +16,7 @@
 - Cross-platform development projects where I can contribute my skills.
 
 ## 📫 How to reach me 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-xavier-32190830a/)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-obieze-32190830a/)
 - [Twitter](https://twitter.com/your-twitter-handle)
 - Email: gabrielxavier3366@gmail.com
 
